@@ -7,5 +7,5 @@ The script includes things like:
 - manipulation of users and groups
 - displaying computer statistics (RAM, CPU, network)
 - manipulation of CRON Jobs
-Script is protected against invalid input from the user.
+- Script is protected against invalid input from the user.
 
